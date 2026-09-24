@@ -115,6 +115,4 @@ python scripts/evaluate_refined.py
 * **Original Paper:** *LLMaEL: Large Language Models are Good Context Augmenters for Entity Linking* ([Hugging Face](https://huggingface.co/papers/2407.04020))
 * **Official LLMaEL Repository:** [THU-KEG/LLMAEL](https://github.com/THU-KEG/LLMAEL)
 
-*Developed by Brian Samir Tiscareño Bisteni.*
-
 </div>
